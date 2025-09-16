@@ -1,0 +1,5 @@
+{
+  "name": "PDF to EPUB Converter",
+  "description": "A tool that converts PDFs into reflowable EPUB files. It extracts text, embeds images, preserves chapter structures, and packages the result into a downloadable .epub file.",
+  "requestFramePermissions": []
+}
